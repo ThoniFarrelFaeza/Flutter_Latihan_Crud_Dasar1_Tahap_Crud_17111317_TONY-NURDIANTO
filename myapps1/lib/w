@@ -1,0 +1,18 @@
+ListTile(
+              leading: Icon(
+                Icons.tv,
+                color: Colors.orange,
+                size: 40,
+              ),
+              title: Text('Tv Jadul 42 inch'),
+              onTap: () {},
+            ),Card(child:  ,)
+            ListTile(
+              leading: Icon(
+                Icons.tv,
+                color: Colors.orange,
+                size: 40,
+              ),
+              title: Text('Tv Jadul 42 inch'),
+              onTap: () {},
+            ),
